@@ -1,0 +1,63 @@
+body{
+    background-color: #ADD8E6;
+}
+div{
+    width: 50%; margin: auto;
+}
+.Hidden{
+   visibility: hidden;
+}
+body>img{
+    width: 100PX;
+}
+header {
+    text-align: center;  
+}
+span{
+    font-weight: bolder;
+}
+.Intro-to-Courses{
+    border: 1px solid #989393;
+    padding: 15px;
+    width: 50%;
+    margin: auto;
+    border-radius: 5px;
+}
+.Noorani-Qaida-Description{
+    border: 1px solid #989393;
+    padding: 15px;
+    width: 50%;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+.Online-Quran-Description{
+    border: 1px solid #989393;
+    padding: 15px;
+    width: 50%;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+.Learn-Arabic-Description{
+    border: 1px solid #989393;
+    padding: 15px;
+    width: 50%;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+.Beautify-Recitation{
+    border: 1px solid #989393;
+    padding: 15px;
+    width: 50%;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+.button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    text-align: center;
+}
